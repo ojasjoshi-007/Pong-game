@@ -1,7 +1,7 @@
 from turtle import Screen, Turtle
 import time
 from ballclass import Ball
-from pong import Paddle
+from paddle import Paddle
 from scoreboard import Scoreboard
 screen=Screen()
 screen.bgcolor("orange")
