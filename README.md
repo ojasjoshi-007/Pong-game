@@ -6,4 +6,4 @@ A simple Pong game built with Python Turtle. Controls, features, and screenshots
 - Scoreboard
 - Easy-to-use controls
 
-![Demo](demo2.gif)
+![Demo](demo (2).gif)
