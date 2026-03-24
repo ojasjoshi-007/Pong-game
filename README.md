@@ -5,3 +5,5 @@ A simple Pong game built with Python Turtle. Controls, features, and screenshots
 - Two-player game
 - Scoreboard
 - Easy-to-use controls
+
+![Demo](demo2.gif)
