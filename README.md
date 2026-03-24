@@ -8,4 +8,4 @@ A simple Pong game built with Python Turtle. Controls, features, and screenshots
 
 ## 🎥 Demo
 
-demo (2).gif
+![Test](https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif)
